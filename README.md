@@ -9,16 +9,23 @@
 <ul>
 <li>🎓graduate Computer Science student at University of Piraeus.</li>
 <li>💻Junior Software Developer.</li>
-<li>⭐Supporter of Object-Oriented Programming.Most of my projects are written in OOP languages, such as C#,Java and Python.</li>
+<li>⭐Supporter of Object-Oriented Programming.Most of my projects are written in OOP languages, such as C# and Java</li>
 <li>☺Passionate about learning new skills.</li>
 <li>🤝Always willing to collaborate.</li>
 </ul>
 
 <h2> <strong> Favourite projects: </strong> </h2>
 <ul>
-<li></li>
-<li></li>
-<li></li>
+<li><a href="https://github.com/JasonSDMN2001/firebasetest1">My Last year Project, a Baby growth tracker android app in Java</a></li>
+<li><a href="https://github.com/JasonSDMN2001/auto_speech_recognition">Auto Speech Recognition App in Python</a></li>
+<li><a href="https://github.com/JasonSDMN2001/AI-TSP-with-genetic-algorithm">TSP problem with genetic algorithms in Python</a></li>
+</ul>
+
+<h2> <strong>I've also contributed in: </strong> </h2>
+<ul>
+<li><a href="https://github.com/JasonSDMN2001/Soft_tech_team5">Project Managing App using R.U.P in C#</a></li>
+<li><a href="https://github.com/JasonSDMN2001/Image-Processing">Image Analysis in Matlab</a></li>
+<li><a href="https://github.com/JasonSDMN2001/SmartAlert">Natural Disaster Alerts in Java(Android app)</a></li>
 </ul>
 
 <h2> <strong> Currently working on: </strong> </h2>
