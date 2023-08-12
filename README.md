@@ -2,7 +2,7 @@
 
 <img src="https://camo.githubusercontent.com/a0bf9cb5451b6002531ba7524918d4fe3e0b58ccaa5bd56433d857f4e7acec10/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f7167515567674143335066763638377150432f67697068792e6769663f6369643d373930623736313138613239373766393732393965626465653262373662323164643534666163613437653264303830267269643d67697068792e6769662663743d67">   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=JasonSDMN2001&&show_icons=true&title_color=FF9933&icon_color=FF5833&text_color=F6FF33&bg_color=053847" width=360 >
 <!--<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JasonSDMN2001&count_private=true&theme=radical" />  -->
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JasonSDMN2001)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+profile!;Check+out+my+doings;Always+willing+to+collaborate!)](https://git.io/typing-svg) 
 
