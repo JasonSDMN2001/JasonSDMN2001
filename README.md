@@ -2,7 +2,8 @@
 
 <img src="https://camo.githubusercontent.com/a0bf9cb5451b6002531ba7524918d4fe3e0b58ccaa5bd56433d857f4e7acec10/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f7167515567674143335066763638377150432f67697068792e6769663f6369643d373930623736313138613239373766393732393965626465653262373662323164643534666163613437653264303830267269643d67697068792e6769662663743d67">
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JasonSDMN2001&include_all_commits=true&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JasonSDMN2001&include_all_commits=true&theme=aura)](https://github.com/anuraghazra/github-readme-stats)-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JasonSDMN2001)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JasonSDMN2001)](https://github.com/anuraghazra/github-readme-stats)
 
