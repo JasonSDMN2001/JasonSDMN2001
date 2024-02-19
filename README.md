@@ -1,5 +1,8 @@
 <h1> Hi there, I'm Jason! <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="30" height="30"></h1>
 
+<a href="https://en.wikipedia.org/wiki/Microsoft_SQL_Server"><img src="https://upload.wikimedia.org/wikipedia/de/thumb/8/8c/Microsoft_SQL_Server_Logo.svg/1200px-Microsoft_SQL_Server_Logo.svg.png" width=50 height=50></a>
+<a href="https://www.postgresql.org/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt-griQ0CskJ9dC5NwUhXghZgW-balDqCeCqIgI-WTwQ&s" width=50 height=50></a>
+<a href="https://sqlite.org/index.html"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG2RWaYhBMD0Jlw5po92209ipQy8veMCd0fWaLqUGk&s" width=80 height=50></a>
 <img src="https://camo.githubusercontent.com/a0bf9cb5451b6002531ba7524918d4fe3e0b58ccaa5bd56433d857f4e7acec10/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f7167515567674143335066763638377150432f67697068792e6769663f6369643d373930623736313138613239373766393732393965626465653262373662323164643534666163613437653264303830267269643d67697068792e6769662663743d67">
 
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JasonSDMN2001&include_all_commits=true&theme=aura)](https://github.com/anuraghazra/github-readme-stats)-->
